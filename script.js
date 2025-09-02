@@ -138,6 +138,10 @@ document.addEventListener('DOMContentLoaded', () => {
             return this.size / this.associativity;
         }
 
+/*************  ✨ Windsurf Command ⭐  *************/
+        /**
+
+/*******  a5c065fb-910e-4846-aaeb-47645fb80ae6  *******/
         getSetIndex(address) {
             const numSets = this.getNumSets();
             if (this.associativity === 'associative') return 0;
